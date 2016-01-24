@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<html>
+<head>
+<title>COUNTRY LANE KENNEL - Photos</title>
+<meta charset="UTF-8" />
+<link href="main.css" rel="stylesheet" type="text/css" />
+<meta name="keywords" content="dog boarding, boarding dog kennels, dog kennels, pet boarding, kennels, pet boarding, kennel, animal boarding, cat boarding, cat kennel, boarding kennel, cat hotel, dog care, cat care, dog day care, doggie day care, pet day care" />
+</head>
+<body>
+<div id = "wrapper">
+<div id = "masthead">
+  <div id = "masthead-right">
+ <div id = "email"><!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="#"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src=""></script>
+<!-- AddThis Button END -->
+
+</div>
+ <div id = "hours"><span class="call">Call 519-586-9442</span>
+   <p> <strong>Monday - Sunday </strong>pick up and drop off times are: 8am-10am and 3pm-5pm<br />
+
+     *By appointment only*    </p>
+</div>
+</div>
+    <div id = "masthead-left"><img style = "padding-top:10px; padding-left:10px" src="logo.gif" width="261" height="109" alt="country lane kennel" /></div>
+<!--end hours -->
+<!--end hours -->
+<div id = "navs"><!-- #BeginLibraryItem "/Library/navs.lbi" --><ul>
+    <li><a href="index.html">HOME</a></li>
+    <li><a href="Services.html">SERVICES</a></li>
+    <li><a href="Rates.html">RATES</a></li>
+    <li><a href="Photos.html">PHOTOS</a></li>
+    <li><a href="ContactUs.html">CONTACT US</a></li>
+
+  </ul><!-- #EndLibraryItem --></div>
+<div class="clear-both"></div>
+
+</div><!--end masthead -->
+
+<div class="content">
+<h3 class="title">Photos</h3>
+
+<h2>Comming Soon</h2>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+
+<!-- <div class="clear-both-rule"></div>
+
+<div class="three-column">
+omestic dogs inherited complex behaviors from their wolf ancestors, which would have been pack hunters with complex body language. These sophisticated forms of social cognition and communication may account for their trainability, playfulness, and ability to fit into human households and social situations, and these attributes have given dogs a relationship with humans that has enabled them to become one of the most successful species on the planet today.
+</div>
+<div class="three-column">
+Although experts largely disagree over the details of dog domestication, it is agreed that human interaction played a significant role in shaping the subspecies.[29] Domestication may have occurred initially in separate areas, particularly Siberia and Europe. Currently it is thought domestication of our current lineage of dog occurred sometime as early as 15,000 years ago and arguably as late as 8500 years ago. Shortly after the latest domestication, dogs became ubiquitous in human populations, and spread throughout the world.
+</div>
+<div class="three-column">
+Emigrants from Siberia likely crossed the Bering Strait with dogs in their company, and some experts[who?] suggest the use of sled dogs may have been critical to the success of the waves that entered North America roughly 12,000 years ago
+Emigrants from Siberia likely crossed the Bering Strait with dogs in their company, and some experts[who?] suggest the use of sled dogs may have been critical to the success of the waves that entered North America roughly 12,000 years ago
+</div> -->
+
+
+<div class="clear-both-rule"></div>
+<div class="footer-sides"><p></p></div>
+<div class="footer-middle">
+<p class="small-hours">
+<a href="Services.html">SERVICES</a> | 
+<a href="Rates.html">RATES</a> | 
+<a href="Photos.html">PHOTOS</a> | 
+<a href="ContactUs.html">CONTACT US</a> | 
+</p>
+<p>1 Vermeulen Rd. RR#2 St. Williams, ON N0E 1P0
+<br />
+  (<a href="ContactUs.html">Get Directions</a>)<br />
+  TEL: 519-586-9442 &#8226; CELL: 519-420-9992</p>
+  <!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="#"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src=""></script>
+<!-- AddThis Button END --></div>
+<div class="clear-both"></div>
+
+
+
+</div><!--End Wrapper-->
+</body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4163298-11']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</html>
